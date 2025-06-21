@@ -7,10 +7,10 @@ public class BooksObj {
     String author;
     double price;
     
-    BooksObj(String t, String a, double p){
-        title = t;
-        author = a;
-        price = p;
+    BooksObj(String title, String author, double price){
+       this.title = title;
+       this.author = author;
+       this.price = price;
     }
     
     void display(){

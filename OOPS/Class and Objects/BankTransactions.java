@@ -6,10 +6,10 @@ public class BankTransactions {
     String accHolderName;
     double balance;
     
-    BankTransactions(int n, String na, double b){
-        accNum = n;
-        accHolderName = na;
-        balance = b;
+    BankTransactions(int accNum, String accHolderName, double balance){
+        this.accNum = accNum ;
+        this.accHolderName = accHolderName;
+        this.balance = balance;
     }
     
     void deposit(double amount){
