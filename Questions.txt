@@ -1,0 +1,9 @@
+Class and Objects
+
+1.Write a Java program to create a class Employee with fields id, name, and salary. Create two objects and display their details.
+2.Create a class Rectangle with fields length and breadth. Include a method area() to calculate area. Create 3 objects and print their areas.
+3.Create a class Car with attributes brand, model, and price. Write a method to print car details. Create a main class and create objects for 3 different cars.
+4.Create a class Book with instance variables title, author, and price. Use constructors to initialize these variables. Create objects using the constructor and display the book details.
+5.Create a class BankAccount with fields accountNumber, accountHolderName, and balance. Include methods to deposit, withdraw, and displayBalance. Test the class with different transactions.
+6.Create a class Circle with a field radius and methods to calculate area and circumference. Accept input using constructor and display results.
+7.Write a program to create a class Movie with attributes like name, language, and rating. Add a method to check if rating is above 4.5 and return "Hit", otherwise "Average".
